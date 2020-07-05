@@ -1,0 +1,239 @@
+body{
+    background-image: url(./Assets/nflx\ top\ background.jpg);
+    padding: 0;
+    margin: 0;
+    
+    
+    
+}
+#logo{
+    float: left;
+    z-index: 1;
+    margin-top: -175px;
+    margin-left: 50px;
+    font-size: x-large;
+    
+}
+
+
+#textOne{
+    width: 600px;
+    margin-top: 175px;
+    color: white;
+    text-align: center;
+    margin-left: 700px;
+    align-content: center;
+    font-size: xx-large;
+}
+#emailSub{
+    
+  margin-left: 620px; 
+   
+
+}
+#email{
+    height: 50px;
+    width: 600px;
+    z-index: 1;
+    margin-right: 0;
+    
+}
+#topRight{
+    
+    background-color: red;
+    float: right;
+    margin-top: -150px;
+    margin-right: 50px;
+    height: 40px;
+    border-radius: 6px;
+
+}
+
+.signInBut{
+    background-color: red;
+    color: white;
+    font-size: large;
+}
+#tryFree{
+    height: 60px;
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 0%;
+    margin-left: 0px;
+    font-size: large;
+    
+}
+.pic1  {
+    width: 400px;
+    height: 250px;
+    margin-left: 630px;
+    margin-top: -410px;
+}
+.pic2{
+    width: 400px;
+    height: 250px;
+    margin-top: -170px;
+    margin-left: 200px;
+}
+#tvVideo{
+    margin-top: -95px;
+    width: 600px;
+
+}
+.tvVideo{
+    width: 515px;
+    height: 130px;
+    margin-left: 550px;
+    margin-top: -400px;
+    
+   
+}
+#text2{
+    color: white;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    border-top: solid grey thick;
+    border-bottom: solid grey thick;
+    margin-left: auto;
+    margin-top: 250px;
+}
+.textTwo{
+    font-size: x-large;
+    width: 450px;
+    margin-top: 100px;
+    margin-left: 450px;
+
+}
+
+.textThree{
+    font-size: x-large;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 1000px;
+
+}
+#text3{
+    color: white;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    border-top: solid grey thick;
+    border-bottom: solid grey thick;
+    margin-left: auto;
+}
+ #text4{
+        color: white;
+        width: 100%;
+        height: 400px;
+        background-color: black;
+        border-top: solid grey thick;
+        border-bottom: solid grey thick;
+        margin-left: auto;
+        margin-top: 0px;
+    }   
+    .computerPic{
+        
+        width: 450px;
+        height: 350px;
+        margin-top: -310px;
+        margin-left: 700;
+        z-index: 1;
+        
+    } 
+    #computerPic{
+        margin-left: 1000px;
+    }
+    .textFour{
+        font-size: x-large;
+        width: 450px;
+        height: 300px;
+        margin-left: 420px;
+        margin-top: 50px;
+    }
+   
+    #text5{
+        color: white;
+        width: 100%;
+        height: 1000px;
+        background-color: black;
+        border-top: solid grey thick;
+        border-bottom: solid grey thick;
+        margin-left: ;
+        margin-top: 0px;
+    } 
+    
+    
+     #navFaq{
+        color: white;
+        margin-top: -900px;
+    }   
+    .faq{
+        margin-top: -100px;
+        margin-left: 830px;
+        color: white;
+    }
+    
+    .dropdown{
+        width: 800px;
+        position: relative;
+        display: inline-block;
+        background-color: darkgrey;
+        margin-left: 650px;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color:lightgrey;
+        
+        
+        z-index: 1;
+      }
+      .dropdown-content p {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+      .dropdown-content p:hover {background-color: grey;}
+
+      .dropdown:hover .dropdown-content {
+        display: block;
+        background-color: grey;
+      }
+      .dropdown:hover .dropbtn {
+        background-color: black;
+      }
+    .dropBtn{
+        width: 800px;
+        color: white;
+        background-color: darkgrey;
+    }
+    .tryFree2{
+        margin-top: 70px;
+    }
+    #tryFree3{
+        background-color: red;
+        width: 180px;
+        height: 55px;
+        color: white;
+    }
+
+
+
+
+    
+
+   
+
+/* 
+background: url(./Assets/nflx\ top\ background.jpg);
+background-size: 100px, 100px, 100px, 100px;
+background-repeat: no-repeat;
+background-position: top;
+
+
+  
+*/
+
