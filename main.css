@@ -95,6 +95,16 @@ body{
     
    
 }
+/* #bottomVideo{
+    width: 303px;
+    height: 700px;
+} */
+.bottomVideo{
+    width: 600px;
+    height: 130px;
+    margin-left: 500px;
+    margin-top: -350px;
+}
 #text2{
     color: white;
     width: 100%;
