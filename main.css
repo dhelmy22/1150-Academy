@@ -1,4 +1,9 @@
+
+
+
+
 body{
+    background-image: box-shadow: inset 50px 50px black;
     background-image: url(./Assets/nflx\ top\ background.jpg);
     padding: 0;
     margin: 0;
@@ -69,6 +74,7 @@ body{
     height: 250px;
     margin-left: 630px;
     margin-top: -410px;
+    z-index: 1;
 }
 .pic2{
     width: 400px;
@@ -78,13 +84,13 @@ body{
 }
 #tvVideo{
     margin-top: -95px;
-    width: 600px;
+    width: 610px;
 
 }
 .tvVideo{
-    width: 515px;
+    width: 600px;
     height: 130px;
-    margin-left: 550px;
+    margin-left: 520px;
     margin-top: -400px;
     
    
@@ -221,7 +227,7 @@ body{
     }
 
 
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     
 
